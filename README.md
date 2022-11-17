@@ -26,6 +26,7 @@ I'm Khoa, a Full-stack developer from Viet Nam :vietnam: with over 6 years of ex
 ![Symfony](https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Shopware](https://img.shields.io/badge/shopware-blue?style=for-the-badge&logo=shopware&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
