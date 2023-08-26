@@ -11,7 +11,7 @@
 
 ---
 
-I'm Khoa, a Full-stack developer from Viet Nam :vietnam: with over 6 years of experience in the web industry. I love how E-commerce work, and that's why I decided to focus almost time on it. I will continue to help develop E-commerce websites that help businesses grow 🚀
+I'm Khoa, a Full-stack developer from Viet Nam :vietnam: with many years of experience in the web industry. I love how E-commerce work, and that's why I decided to focus almost time on it. I will continue to help develop E-commerce websites that help businesses grow 🚀
 
 ---
 
