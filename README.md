@@ -45,7 +45,7 @@ I'm Khoa, a Full-stack developer from Viet Nam :vietnam: with many years of expe
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pbtkhoa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pbtkhoa&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
